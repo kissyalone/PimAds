@@ -1,5 +1,5 @@
-# **App of store management**
- > Management of any simple store in C++.
+# **cash management application**
+ >A simple cash management application in C++.
  ![](img/loginscreen.png)
  ![](img/menuInicial.png)
 
@@ -19,20 +19,23 @@
 
 # **Installation**
  Windows Only:
-    Download [VisualStudio] (https://visualstudio.microsoft.com/downloads/)
-    [Fork this repository] (https://github.com/kissyalone/PimAds)
-    modify "loginBDS.txt" 
+    Download [VisualStudio](https://visualstudio.microsoft.com/downloads/)
+    [Fork this repository](https://github.com/kissyalone/PimAds)
+    modify _"loginBDS.txt"_ 
         > to you own users and passwords.
-    Clean all the files from folders 1,2,3 **Except produtoBDS.txt and registroVendas.txt**
-    Open produtoBDS.txt and registroVendas.txt and erase everthing inside and save blank.
+    Clean all the files from folders 1,2,3 **Except _produtoBDS.txt_ and _registroVendas.txt_**
+    Open _produtoBDS.txt_ and _registroVendas.txt_ and erase everthing inside and save blank.
 
 # **About Me**
+ My name is Jhonata de Souza, iam from Sorocaba-SP, Brazil.
+ student of ADS on Unip.
+
  If you need any help contact me:
- [github] (https://github.com/kissyalone)
- [Linkedin] (notfound.com)
+ [github](https://github.com/kissyalone)
+ [Linkedin](notfound.com)
  
  > This is a project for my University.
  
- # Thanks you!
+ # Thank you!
 
 
