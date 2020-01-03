@@ -1,0 +1,369 @@
+pedido: 264
+data: 11.27.19
+hora: 02:36:44
+produto: pizza1
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza2
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza4
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+-----------------
+total pedido: 22.5
+pedido: 238
+data: 11.27.19
+hora: 02:43:08
+produto: pizza1
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza2
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+-----------------
+total pedido: 15
+pedido: 266
+data: 11.27.19
+hora: 02:46:06
+produto: pizza1
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza2
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza3
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza4
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+-----------------
+total pedido: 30
+pedido: 221
+data: 11.27.19
+hora: 02:52:41
+produto: pizza1
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza2
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+produto: pizza3
+quantidade: 1
+preco: 7.5
+total produto: 7.5
+-----------------
+total pedido: 22.5
+pedido: 300
+data: 11.27.19
+hora: 03:50:50
+produto: slice marguerita
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: coca zero
+quantidade: 2
+preco: 5
+total produto: 10
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: chesse fing
+quantidade: 2
+preco: 15
+total produto: 30
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+-----------------
+total pedido: 232.5
+pedido: 326
+data: 11.27.19
+hora: 03:52:46
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: brigadeiro
+quantidade: 2
+preco: 2
+total produto: 4
+produto: pao de mel
+quantidade: 2
+preco: 4.5
+total produto: 9
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+-----------------
+total pedido: 27
+pedido: 438
+data: 11.27.19
+hora: 04:33:28
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+-----------------
+total pedido: 9
+pedido: 450
+data: 11.27.19
+hora: 04:35:10
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 26
+pedido: 496
+data: 11.27.19
+hora: 04:39:16
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 26
+pedido: 416
+data: 11.27.19
+hora: 04:41:46
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+-----------------
+total pedido: 10
+pedido: 436
+data: 11.27.19
+hora: 04:43:26
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+-----------------
+total pedido: 10
+pedido: 455
+data: 11.27.19
+hora: 04:45:25
+produto: chesse fing
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 22
+pedido: 435
+data: 11.28.19
+hora: 04:53:05
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+-----------------
+total pedido: 16.5
+pedido: 434
+data: 11.28.19
+hora: 04:53:24
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 10
+pedido: 575
+data: 11.28.19
+hora: 05:07:15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 10
+pedido: 548
+data: 11.28.19
+hora: 05:34:18
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 5
+!!!fim dia 11.28.19 !!!
+total vendas do dia: 494
+pedido: 525
+data: 11.28.19
+hora: 05:42:55
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 19
+pedido: 535
+data: 11.28.19
+hora: 05:43:15
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 12
+pedido: 538
+data: 11.28.19
+hora: 05:43:28
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+-----------------
+total pedido: 6.5
+pedido: 535
+data: 11.28.19
+hora: 05:43:45
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+-----------------
+total pedido: 14
+pedido: 536
+data: 11.28.19
+hora: 05:43:56
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 13
+!!!fim dia 11.28.19 !!!
+total vendas do dia: 64.5

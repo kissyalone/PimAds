@@ -1,0 +1,132 @@
+codigo: 1
+nome: slice marguerita
+preco: 8.00
+quantidade: 57
+codigo: 2
+nome: slice pepponi
+preco: 8.00
+quantidade: 72
+codigo: 3
+nome: slice newyork
+preco: 8.00
+quantidade: 61
+codigo: 4
+nome: chesse finger
+preco: 15.00
+quantidade: 98
+codigo: 5
+nome: coca cola
+preco: 5.00
+quantidade: 70
+codigo: 6
+nome: coca zero
+preco: 5.00
+quantidade: 81
+codigo: 7
+nome: fanta laranja
+preco: 5.00
+quantidade: 101
+codigo: 8
+nome: fanta uva
+preco: 5.00
+quantidade: 90
+codigo: 9
+nome: sprite
+preco: 5.00
+quantidade: 82
+codigo: 10
+nome: kuat
+preco: 5.00
+quantidade: 107
+codigo: 11
+nome: scheppers
+preco: 5.00
+quantidade: 93
+codigo: 12
+nome: tonica
+preco: 5.00
+quantidade: 104
+codigo: 13
+nome: agua sem gas
+preco: 3.50
+quantidade: 96
+codigo: 14
+nome: agua com gas
+preco: 4.00
+quantidade: 86
+codigo: 15
+nome: halls
+preco: 2.50
+quantidade: 108
+codigo: 16
+nome: trident
+preco: 2.50
+quantidade: 94
+codigo: 17
+nome: pao de mel
+preco: 4.50
+quantidade: 88
+codigo: 18
+nome: brigadeiro
+preco: 2.00
+quantidade: 108
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+codigo: 24
+nome: kitkat
+preco: 5.55
+quantidade: 0
+

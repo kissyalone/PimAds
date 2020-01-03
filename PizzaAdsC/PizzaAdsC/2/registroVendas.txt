@@ -1,0 +1,5606 @@
+pedido: 342
+data: 11.01.19
+hora: 23:24:32
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 93
+pedido: 355
+data: 11.01.19
+hora: 23:25:25
+produto: slice marguerita
+quantidade: 2
+preco: 8
+total produto: 16
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 42
+pedido: 351
+data: 11.01.19
+hora: 23:25:51
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 38
+pedido: 362
+data: 11.01.19
+hora: 23:26:02
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 363
+data: 11.01.19
+hora: 23:26:13
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 368
+data: 11.01.19
+hora: 23:26:18
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 28
+pedido: 366
+data: 11.01.19
+hora: 23:26:26
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 24
+pedido: 360
+data: 11.01.19
+hora: 23:26:30
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 25
+pedido: 367
+data: 11.01.19
+hora: 23:26:37
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 15
+pedido: 363
+data: 11.01.19
+hora: 23:26:43
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 361
+data: 11.01.19
+hora: 23:26:51
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+!!!fim dia 11.01.19 !!!
+total vendas do dia: 337
+pedido: 361
+data: 11.02.19
+hora: 23:36:41
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: coca zero
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+produto: kuat
+quantidade: 4
+preco: 5
+total produto: 20
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: pao de mel
+quantidade: 2
+preco: 4.5
+total produto: 9
+-----------------
+total pedido: 509.5
+pedido: 373
+data: 11.02.19
+hora: 23:37:43
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: slice marguerita
+quantidade: 9
+preco: 8
+total produto: 72
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: chesse finger
+quantidade: 15
+preco: 15
+total produto: 225
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 2
+preco: 8
+total produto: 16
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 369
+pedido: 383
+data: 11.02.19
+hora: 23:38:23
+produto: slice marguerita
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: coca cola
+quantidade: 9
+preco: 5
+total produto: 45
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca zero
+quantidade: 9
+preco: 5
+total produto: 45
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 330
+!!!fim dia 11.02.19 !!!
+total vendas do dia: 1208.5
+pedido: 335
+data: 11.03.19
+hora: 23:43:35
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 11
+preco: 8
+total produto: 88
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 11
+preco: 5
+total produto: 55
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+produto: scheppers
+quantidade: 5
+preco: 5
+total produto: 25
+produto: tonica
+quantidade: 14
+preco: 5
+total produto: 70
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 3
+preco: 4
+total produto: 12
+produto: brigadeiro
+quantidade: 2
+preco: 2
+total produto: 4
+-----------------
+total pedido: 629.5
+pedido: 348
+data: 11.03.19
+hora: 23:44:48
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 7
+preco: 15
+total produto: 105
+produto: fanta laranja
+quantidade: 9
+preco: 5
+total produto: 45
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: trident
+quantidade: 10
+preco: 2.5
+total produto: 25
+-----------------
+total pedido: 223.5
+pedido: 352
+data: 11.03.19
+hora: 23:45:22
+produto: agua com gas
+quantidade: 4
+preco: 4
+total produto: 16
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 282
+!!!fim dia 11.03.19 !!!
+total vendas do dia: 1135
+pedido: 390
+data: 11.04.19
+hora: 23:49:20
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: coca zero
+quantidade: 6
+preco: 5
+total produto: 30
+produto: sprite
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 376
+pedido: 397
+data: 11.04.19
+hora: 23:49:47
+produto: slice marguerita
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: trident
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 343
+pedido: 306
+data: 11.04.19
+hora: 23:50:16
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice marguerita
+quantidade: 19
+preco: 8
+total produto: 152
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: chesse finger
+quantidade: 9
+preco: 15
+total produto: 135
+produto: coca zero
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 4
+preco: 2
+total produto: 8
+-----------------
+total pedido: 450.5
+!!!fim dia 11.04.19 !!!
+total vendas do dia: 1169.5
+pedido: 325
+data: 11.05.19
+hora: 23:52:05
+produto: slice marguerita
+quantidade: 10
+preco: 8
+total produto: 80
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: coca cola
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta laranja
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 4
+preco: 4.5
+total produto: 18
+produto: agua com gas
+quantidade: 6
+preco: 4
+total produto: 24
+produto: halls
+quantidade: 8
+preco: 2.5
+total produto: 20
+produto: brigadeiro
+quantidade: 3
+preco: 2
+total produto: 6
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: tonica
+quantidade: 3
+preco: 5
+total produto: 15
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 346.5
+pedido: 326
+data: 11.05.19
+hora: 23:52:56
+produto: slice marguerita
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta uva
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 353
+pedido: 330
+data: 11.05.19
+hora: 23:53:20
+produto: slice marguerita
+quantidade: 7
+preco: 8
+total produto: 56
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 2
+preco: 5
+total produto: 10
+produto: coca zero
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 10
+preco: 8
+total produto: 80
+-----------------
+total pedido: 357
+!!!fim dia 11.05.19 !!!
+total vendas do dia: 1056.5
+pedido: 347
+data: 11.06.19
+hora: 23:54:47
+produto: slice marguerita
+quantidade: 16
+preco: 8
+total produto: 128
+produto: slice pepponi
+quantidade: 17
+preco: 8
+total produto: 136
+produto: slice newyork
+quantidade: 16
+preco: 8
+total produto: 128
+-----------------
+total pedido: 392
+pedido: 353
+data: 11.06.19
+hora: 23:55:13
+produto: chesse finger
+quantidade: 10
+preco: 15
+total produto: 150
+produto: coca cola
+quantidade: 37
+preco: 5
+total produto: 185
+produto: coca zero
+quantidade: 12
+preco: 5
+total produto: 60
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+-----------------
+total pedido: 425
+pedido: 350
+data: 11.06.19
+hora: 23:55:40
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 7
+preco: 5
+total produto: 35
+produto: sprite
+quantidade: 6
+preco: 5
+total produto: 30
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: trident
+quantidade: 18
+preco: 2.5
+total produto: 45
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+-----------------
+total pedido: 343.5
+!!!fim dia 11.06.19 !!!
+total vendas do dia: 1160.5
+pedido: 375
+data: 11.07.19
+hora: 23:57:55
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 22
+preco: 8
+total produto: 176
+produto: slice newyork
+quantidade: 20
+preco: 8
+total produto: 160
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: pao de mel
+quantidade: 5
+preco: 4.5
+total produto: 22.5
+-----------------
+total pedido: 489.5
+pedido: 382
+data: 11.07.19
+hora: 23:58:22
+produto: agua com gas
+quantidade: 14
+preco: 4
+total produto: 56
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: agua sem gas
+quantidade: 28
+preco: 3.5
+total produto: 98
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 328.5
+pedido: 396
+data: 11.07.19
+hora: 23:59:06
+produto: agua com gas
+quantidade: 5
+preco: 4
+total produto: 20
+produto: pao de mel
+quantidade: 12
+preco: 4.5
+total produto: 54
+produto: brigadeiro
+quantidade: 21
+preco: 2
+total produto: 42
+produto: slice pepponi
+quantidade: 7
+preco: 8
+total produto: 56
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: coca cola
+quantidade: 17
+preco: 5
+total produto: 85
+produto: coca zero
+quantidade: 15
+preco: 5
+total produto: 75
+produto: sprite
+quantidade: 43
+preco: 5
+total produto: 215
+produto: fanta uva
+quantidade: 22
+preco: 5
+total produto: 110
+-----------------
+total pedido: 689
+!!!fim dia 11.07.19 !!!
+total vendas do dia: 1507
+pedido: 342
+data: 11.08.19
+hora: 23:24:32
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 93
+pedido: 355
+data: 11.08.19
+hora: 23:25:25
+produto: slice marguerita
+quantidade: 2
+preco: 8
+total produto: 16
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 42
+pedido: 351
+data: 11.08.19
+hora: 23:25:51
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 38
+pedido: 362
+data: 11.08.19
+hora: 23:26:02
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 363
+data: 11.08.19
+hora: 23:26:13
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 368
+data: 11.08.19
+hora: 23:26:18
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 28
+pedido: 366
+data: 11.08.19
+hora: 23:26:26
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 24
+pedido: 360
+data: 11.08.19
+hora: 23:26:30
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 25
+pedido: 367
+data: 11.08.19
+hora: 23:26:37
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 15
+pedido: 363
+data: 11.08.19
+hora: 23:26:43
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 361
+data: 11.08.19
+hora: 23:26:51
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+!!!fim dia 11.08.19 !!!
+total vendas do dia: 337
+pedido: 361
+data: 11.09.19
+hora: 23:36:41
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: coca zero
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+produto: kuat
+quantidade: 4
+preco: 5
+total produto: 20
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: pao de mel
+quantidade: 2
+preco: 4.5
+total produto: 9
+-----------------
+total pedido: 509.5
+pedido: 373
+data: 11.09.19
+hora: 23:37:43
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: slice marguerita
+quantidade: 9
+preco: 8
+total produto: 72
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: chesse finger
+quantidade: 15
+preco: 15
+total produto: 225
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 2
+preco: 8
+total produto: 16
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 369
+pedido: 383
+data: 11.09.19
+hora: 23:38:23
+produto: slice marguerita
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: coca cola
+quantidade: 9
+preco: 5
+total produto: 45
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca zero
+quantidade: 9
+preco: 5
+total produto: 45
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 330
+!!!fim dia 11.09.19 !!!
+total vendas do dia: 1208.5
+pedido: 335
+data: 11.10.19
+hora: 23:43:35
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 11
+preco: 8
+total produto: 88
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 11
+preco: 5
+total produto: 55
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+produto: scheppers
+quantidade: 5
+preco: 5
+total produto: 25
+produto: tonica
+quantidade: 14
+preco: 5
+total produto: 70
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 3
+preco: 4
+total produto: 12
+produto: brigadeiro
+quantidade: 2
+preco: 2
+total produto: 4
+-----------------
+total pedido: 629.5
+pedido: 348
+data: 11.10.19
+hora: 23:44:48
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 7
+preco: 15
+total produto: 105
+produto: fanta laranja
+quantidade: 9
+preco: 5
+total produto: 45
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: trident
+quantidade: 10
+preco: 2.5
+total produto: 25
+-----------------
+total pedido: 223.5
+pedido: 352
+data: 11.10.19
+hora: 23:45:22
+produto: agua com gas
+quantidade: 4
+preco: 4
+total produto: 16
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 282
+!!!fim dia 11.10.19 !!!
+total vendas do dia: 1135
+pedido: 390
+data: 11.11.19
+hora: 23:49:20
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: coca zero
+quantidade: 6
+preco: 5
+total produto: 30
+produto: sprite
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 376
+pedido: 397
+data: 11.11.19
+hora: 23:49:47
+produto: slice marguerita
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: trident
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 343
+pedido: 306
+data: 11.11.19
+hora: 23:50:16
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice marguerita
+quantidade: 19
+preco: 8
+total produto: 152
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: chesse finger
+quantidade: 9
+preco: 15
+total produto: 135
+produto: coca zero
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 4
+preco: 2
+total produto: 8
+-----------------
+total pedido: 450.5
+!!!fim dia 11.11.19 !!!
+total vendas do dia: 1169.5
+pedido: 325
+data: 11.12.19
+hora: 23:52:05
+produto: slice marguerita
+quantidade: 10
+preco: 8
+total produto: 80
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: coca cola
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta laranja
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 4
+preco: 4.5
+total produto: 18
+produto: agua com gas
+quantidade: 6
+preco: 4
+total produto: 24
+produto: halls
+quantidade: 8
+preco: 2.5
+total produto: 20
+produto: brigadeiro
+quantidade: 3
+preco: 2
+total produto: 6
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: tonica
+quantidade: 3
+preco: 5
+total produto: 15
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 346.5
+pedido: 326
+data: 11.12.19
+hora: 23:52:56
+produto: slice marguerita
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta uva
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 353
+pedido: 330
+data: 11.12.19
+hora: 23:53:20
+produto: slice marguerita
+quantidade: 7
+preco: 8
+total produto: 56
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 2
+preco: 5
+total produto: 10
+produto: coca zero
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 10
+preco: 8
+total produto: 80
+-----------------
+total pedido: 357
+!!!fim dia 11.12.19 !!!
+total vendas do dia: 1056.5
+pedido: 347
+data: 11.13.19
+hora: 23:54:47
+produto: slice marguerita
+quantidade: 16
+preco: 8
+total produto: 128
+produto: slice pepponi
+quantidade: 17
+preco: 8
+total produto: 136
+produto: slice newyork
+quantidade: 16
+preco: 8
+total produto: 128
+-----------------
+total pedido: 392
+pedido: 353
+data: 11.13.19
+hora: 23:55:13
+produto: chesse finger
+quantidade: 10
+preco: 15
+total produto: 150
+produto: coca cola
+quantidade: 37
+preco: 5
+total produto: 185
+produto: coca zero
+quantidade: 12
+preco: 5
+total produto: 60
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+-----------------
+total pedido: 425
+pedido: 350
+data: 11.13.19
+hora: 23:55:40
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 7
+preco: 5
+total produto: 35
+produto: sprite
+quantidade: 6
+preco: 5
+total produto: 30
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: trident
+quantidade: 18
+preco: 2.5
+total produto: 45
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+-----------------
+total pedido: 343.5
+!!!fim dia 11.13.19 !!!
+total vendas do dia: 1160.5
+pedido: 375
+data: 11.14.19
+hora: 23:57:55
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 22
+preco: 8
+total produto: 176
+produto: slice newyork
+quantidade: 20
+preco: 8
+total produto: 160
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: pao de mel
+quantidade: 5
+preco: 4.5
+total produto: 22.5
+-----------------
+total pedido: 489.5
+pedido: 382
+data: 11.14.19
+hora: 23:58:22
+produto: agua com gas
+quantidade: 14
+preco: 4
+total produto: 56
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: agua sem gas
+quantidade: 28
+preco: 3.5
+total produto: 98
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 328.5
+pedido: 396
+data: 11.14.19
+hora: 23:59:06
+produto: agua com gas
+quantidade: 5
+preco: 4
+total produto: 20
+produto: pao de mel
+quantidade: 12
+preco: 4.5
+total produto: 54
+produto: brigadeiro
+quantidade: 21
+preco: 2
+total produto: 42
+produto: slice pepponi
+quantidade: 7
+preco: 8
+total produto: 56
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: coca cola
+quantidade: 17
+preco: 5
+total produto: 85
+produto: coca zero
+quantidade: 15
+preco: 5
+total produto: 75
+produto: sprite
+quantidade: 43
+preco: 5
+total produto: 215
+produto: fanta uva
+quantidade: 22
+preco: 5
+total produto: 110
+-----------------
+total pedido: 689
+!!!fim dia 11.14.19 !!!
+total vendas do dia: 1507
+pedido: 342
+data: 11.15.19
+hora: 23:24:32
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 93
+pedido: 355
+data: 11.15.19
+hora: 23:25:25
+produto: slice marguerita
+quantidade: 2
+preco: 8
+total produto: 16
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 42
+pedido: 351
+data: 11.15.19
+hora: 23:25:51
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 38
+pedido: 362
+data: 11.15.19
+hora: 23:26:02
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 363
+data: 11.15.19
+hora: 23:26:13
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 368
+data: 11.15.19
+hora: 23:26:18
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 28
+pedido: 366
+data: 11.15.19
+hora: 23:26:26
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 24
+pedido: 360
+data: 11.15.19
+hora: 23:26:30
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 25
+pedido: 367
+data: 11.15.19
+hora: 23:26:37
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 15
+pedido: 363
+data: 11.15.19
+hora: 23:26:43
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 361
+data: 11.15.19
+hora: 23:26:51
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+!!!fim dia 11.15.19 !!!
+total vendas do dia: 337
+pedido: 361
+data: 11.16.19
+hora: 23:36:41
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: coca zero
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+produto: kuat
+quantidade: 4
+preco: 5
+total produto: 20
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: pao de mel
+quantidade: 2
+preco: 4.5
+total produto: 9
+-----------------
+total pedido: 509.5
+pedido: 373
+data: 11.16.19
+hora: 23:37:43
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: slice marguerita
+quantidade: 9
+preco: 8
+total produto: 72
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: chesse finger
+quantidade: 15
+preco: 15
+total produto: 225
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 2
+preco: 8
+total produto: 16
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 369
+pedido: 383
+data: 11.16.19
+hora: 23:38:23
+produto: slice marguerita
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: coca cola
+quantidade: 9
+preco: 5
+total produto: 45
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca zero
+quantidade: 9
+preco: 5
+total produto: 45
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 330
+!!!fim dia 11.16.19 !!!
+total vendas do dia: 1208.5
+pedido: 335
+data: 11.17.19
+hora: 23:43:35
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 11
+preco: 8
+total produto: 88
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 11
+preco: 5
+total produto: 55
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+produto: scheppers
+quantidade: 5
+preco: 5
+total produto: 25
+produto: tonica
+quantidade: 14
+preco: 5
+total produto: 70
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 3
+preco: 4
+total produto: 12
+produto: brigadeiro
+quantidade: 2
+preco: 2
+total produto: 4
+-----------------
+total pedido: 629.5
+pedido: 348
+data: 11.17.19
+hora: 23:44:48
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 7
+preco: 15
+total produto: 105
+produto: fanta laranja
+quantidade: 9
+preco: 5
+total produto: 45
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: trident
+quantidade: 10
+preco: 2.5
+total produto: 25
+-----------------
+total pedido: 223.5
+pedido: 352
+data: 11.17.19
+hora: 23:45:22
+produto: agua com gas
+quantidade: 4
+preco: 4
+total produto: 16
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 282
+!!!fim dia 11.17.19 !!!
+total vendas do dia: 1135
+pedido: 390
+data: 11.18.19
+hora: 23:49:20
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: coca zero
+quantidade: 6
+preco: 5
+total produto: 30
+produto: sprite
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 376
+pedido: 397
+data: 11.18.19
+hora: 23:49:47
+produto: slice marguerita
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: trident
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 343
+pedido: 306
+data: 11.18.19
+hora: 23:50:16
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice marguerita
+quantidade: 19
+preco: 8
+total produto: 152
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: chesse finger
+quantidade: 9
+preco: 15
+total produto: 135
+produto: coca zero
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 4
+preco: 2
+total produto: 8
+-----------------
+total pedido: 450.5
+!!!fim dia 11.18.19 !!!
+total vendas do dia: 1169.5
+pedido: 325
+data: 11.19.19
+hora: 23:52:05
+produto: slice marguerita
+quantidade: 10
+preco: 8
+total produto: 80
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: coca cola
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta laranja
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 4
+preco: 4.5
+total produto: 18
+produto: agua com gas
+quantidade: 6
+preco: 4
+total produto: 24
+produto: halls
+quantidade: 8
+preco: 2.5
+total produto: 20
+produto: brigadeiro
+quantidade: 3
+preco: 2
+total produto: 6
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: tonica
+quantidade: 3
+preco: 5
+total produto: 15
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 346.5
+pedido: 326
+data: 11.19.19
+hora: 23:52:56
+produto: slice marguerita
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta uva
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 353
+pedido: 330
+data: 11.19.19
+hora: 23:53:20
+produto: slice marguerita
+quantidade: 7
+preco: 8
+total produto: 56
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 2
+preco: 5
+total produto: 10
+produto: coca zero
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 10
+preco: 8
+total produto: 80
+-----------------
+total pedido: 357
+!!!fim dia 11.19.19 !!!
+total vendas do dia: 1056.5
+pedido: 347
+data: 11.20.19
+hora: 23:54:47
+produto: slice marguerita
+quantidade: 16
+preco: 8
+total produto: 128
+produto: slice pepponi
+quantidade: 17
+preco: 8
+total produto: 136
+produto: slice newyork
+quantidade: 16
+preco: 8
+total produto: 128
+-----------------
+total pedido: 392
+pedido: 353
+data: 11.21.19
+hora: 23:55:13
+produto: chesse finger
+quantidade: 10
+preco: 15
+total produto: 150
+produto: coca cola
+quantidade: 37
+preco: 5
+total produto: 185
+produto: coca zero
+quantidade: 12
+preco: 5
+total produto: 60
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+-----------------
+total pedido: 425
+pedido: 350
+data: 11.21.19
+hora: 23:55:40
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 7
+preco: 5
+total produto: 35
+produto: sprite
+quantidade: 6
+preco: 5
+total produto: 30
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: trident
+quantidade: 18
+preco: 2.5
+total produto: 45
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+-----------------
+total pedido: 343.5
+!!!fim dia 11.20.19 !!!
+total vendas do dia: 1160.5
+pedido: 375
+data: 11.21.19
+hora: 23:57:55
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 22
+preco: 8
+total produto: 176
+produto: slice newyork
+quantidade: 20
+preco: 8
+total produto: 160
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: pao de mel
+quantidade: 5
+preco: 4.5
+total produto: 22.5
+-----------------
+total pedido: 489.5
+pedido: 382
+data: 11.21.19
+hora: 23:58:22
+produto: agua com gas
+quantidade: 14
+preco: 4
+total produto: 56
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: agua sem gas
+quantidade: 28
+preco: 3.5
+total produto: 98
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 328.5
+pedido: 396
+data: 11.21.19
+hora: 23:59:06
+produto: agua com gas
+quantidade: 5
+preco: 4
+total produto: 20
+produto: pao de mel
+quantidade: 12
+preco: 4.5
+total produto: 54
+produto: brigadeiro
+quantidade: 21
+preco: 2
+total produto: 42
+produto: slice pepponi
+quantidade: 7
+preco: 8
+total produto: 56
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: coca cola
+quantidade: 17
+preco: 5
+total produto: 85
+produto: coca zero
+quantidade: 15
+preco: 5
+total produto: 75
+produto: sprite
+quantidade: 43
+preco: 5
+total produto: 215
+produto: fanta uva
+quantidade: 22
+preco: 5
+total produto: 110
+-----------------
+total pedido: 689
+!!!fim dia 11.21.19 !!!
+total vendas do dia: 1507
+pedido: 342
+data: 11.22.19
+hora: 23:24:32
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 93
+pedido: 355
+data: 11.22.19
+hora: 23:25:25
+produto: slice marguerita
+quantidade: 2
+preco: 8
+total produto: 16
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 42
+pedido: 351
+data: 11.22.19
+hora: 23:25:51
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 38
+pedido: 362
+data: 11.22.19
+hora: 23:26:02
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 363
+data: 11.22.19
+hora: 23:26:13
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 368
+data: 11.22.19
+hora: 23:26:18
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 28
+pedido: 366
+data: 11.22.19
+hora: 23:26:26
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 24
+pedido: 360
+data: 11.22.19
+hora: 23:26:30
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 25
+pedido: 367
+data: 11.22.19
+hora: 23:26:37
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 15
+pedido: 363
+data: 11.22.19
+hora: 23:26:43
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 361
+data: 11.22.19
+hora: 23:26:51
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+!!!fim dia 11.22.19 !!!
+total vendas do dia: 337
+pedido: 361
+data: 11.23.19
+hora: 23:36:41
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: coca zero
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+produto: kuat
+quantidade: 4
+preco: 5
+total produto: 20
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: pao de mel
+quantidade: 2
+preco: 4.5
+total produto: 9
+-----------------
+total pedido: 509.5
+pedido: 373
+data: 11.23.19
+hora: 23:37:43
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: slice marguerita
+quantidade: 9
+preco: 8
+total produto: 72
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: chesse finger
+quantidade: 15
+preco: 15
+total produto: 225
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 2
+preco: 8
+total produto: 16
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 369
+pedido: 383
+data: 11.23.19
+hora: 23:38:23
+produto: slice marguerita
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: coca cola
+quantidade: 9
+preco: 5
+total produto: 45
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca zero
+quantidade: 9
+preco: 5
+total produto: 45
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 330
+!!!fim dia 11.23.19 !!!
+total vendas do dia: 1208.5
+pedido: 335
+data: 11.24.19
+hora: 23:43:35
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 11
+preco: 8
+total produto: 88
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 11
+preco: 5
+total produto: 55
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+produto: scheppers
+quantidade: 5
+preco: 5
+total produto: 25
+produto: tonica
+quantidade: 14
+preco: 5
+total produto: 70
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 3
+preco: 4
+total produto: 12
+produto: brigadeiro
+quantidade: 2
+preco: 2
+total produto: 4
+-----------------
+total pedido: 629.5
+pedido: 348
+data: 11.24.19
+hora: 23:44:48
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 7
+preco: 15
+total produto: 105
+produto: fanta laranja
+quantidade: 9
+preco: 5
+total produto: 45
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: trident
+quantidade: 10
+preco: 2.5
+total produto: 25
+-----------------
+total pedido: 223.5
+pedido: 352
+data: 11.24.19
+hora: 23:45:22
+produto: agua com gas
+quantidade: 4
+preco: 4
+total produto: 16
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 282
+!!!fim dia 11.24.19 !!!
+total vendas do dia: 1135
+pedido: 390
+data: 11.25.19
+hora: 23:49:20
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: coca zero
+quantidade: 6
+preco: 5
+total produto: 30
+produto: sprite
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 376
+pedido: 397
+data: 11.25.19
+hora: 23:49:47
+produto: slice marguerita
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: trident
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 343
+pedido: 306
+data: 11.25.19
+hora: 23:50:16
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice marguerita
+quantidade: 19
+preco: 8
+total produto: 152
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: chesse finger
+quantidade: 9
+preco: 15
+total produto: 135
+produto: coca zero
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 4
+preco: 2
+total produto: 8
+-----------------
+total pedido: 450.5
+!!!fim dia 11.25.19 !!!
+total vendas do dia: 1169.5
+pedido: 325
+data: 11.26.19
+hora: 23:52:05
+produto: slice marguerita
+quantidade: 10
+preco: 8
+total produto: 80
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: coca cola
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta laranja
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 4
+preco: 4.5
+total produto: 18
+produto: agua com gas
+quantidade: 6
+preco: 4
+total produto: 24
+produto: halls
+quantidade: 8
+preco: 2.5
+total produto: 20
+produto: brigadeiro
+quantidade: 3
+preco: 2
+total produto: 6
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: tonica
+quantidade: 3
+preco: 5
+total produto: 15
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 346.5
+pedido: 326
+data: 11.26.19
+hora: 23:52:56
+produto: slice marguerita
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta uva
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 353
+pedido: 330
+data: 11.26.19
+hora: 23:53:20
+produto: slice marguerita
+quantidade: 7
+preco: 8
+total produto: 56
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 2
+preco: 5
+total produto: 10
+produto: coca zero
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 10
+preco: 8
+total produto: 80
+-----------------
+total pedido: 357
+!!!fim dia 11.26.19 !!!
+total vendas do dia: 1056.5
+pedido: 347
+data: 11.27.19
+hora: 23:54:47
+produto: slice marguerita
+quantidade: 16
+preco: 8
+total produto: 128
+produto: slice pepponi
+quantidade: 17
+preco: 8
+total produto: 136
+produto: slice newyork
+quantidade: 16
+preco: 8
+total produto: 128
+-----------------
+total pedido: 392
+pedido: 353
+data: 11.27.19
+hora: 23:55:13
+produto: chesse finger
+quantidade: 10
+preco: 15
+total produto: 150
+produto: coca cola
+quantidade: 37
+preco: 5
+total produto: 185
+produto: coca zero
+quantidade: 12
+preco: 5
+total produto: 60
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+-----------------
+total pedido: 425
+pedido: 350
+data: 11.27.19
+hora: 23:55:40
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 7
+preco: 5
+total produto: 35
+produto: sprite
+quantidade: 6
+preco: 5
+total produto: 30
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: trident
+quantidade: 18
+preco: 2.5
+total produto: 45
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+-----------------
+total pedido: 343.5
+!!!fim dia 11.27.19 !!!
+total vendas do dia: 1160.5
+pedido: 375
+data: 11.28.19
+hora: 23:57:55
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 22
+preco: 8
+total produto: 176
+produto: slice newyork
+quantidade: 20
+preco: 8
+total produto: 160
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: pao de mel
+quantidade: 5
+preco: 4.5
+total produto: 22.5
+-----------------
+total pedido: 489.5
+pedido: 382
+data: 11.28.19
+hora: 23:58:22
+produto: agua com gas
+quantidade: 14
+preco: 4
+total produto: 56
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: agua sem gas
+quantidade: 28
+preco: 3.5
+total produto: 98
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 328.5
+pedido: 396
+data: 11.28.19
+hora: 23:59:06
+produto: agua com gas
+quantidade: 5
+preco: 4
+total produto: 20
+produto: pao de mel
+quantidade: 12
+preco: 4.5
+total produto: 54
+produto: brigadeiro
+quantidade: 21
+preco: 2
+total produto: 42
+produto: slice pepponi
+quantidade: 7
+preco: 8
+total produto: 56
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: coca cola
+quantidade: 17
+preco: 5
+total produto: 85
+produto: coca zero
+quantidade: 15
+preco: 5
+total produto: 75
+produto: sprite
+quantidade: 43
+preco: 5
+total produto: 215
+produto: fanta uva
+quantidade: 22
+preco: 5
+total produto: 110
+-----------------
+total pedido: 689
+!!!fim dia 11.28.19 !!!
+total vendas do dia: 1507
+pedido: 342
+data: 11.29.19
+hora: 23:24:32
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 93
+pedido: 355
+data: 11.29.19
+hora: 23:25:25
+produto: slice marguerita
+quantidade: 2
+preco: 8
+total produto: 16
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 42
+pedido: 351
+data: 11.29.19
+hora: 23:25:51
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 38
+pedido: 362
+data: 11.29.19
+hora: 23:26:02
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 363
+data: 11.29.19
+hora: 23:26:13
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 368
+data: 11.29.19
+hora: 23:26:18
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 28
+pedido: 366
+data: 11.29.19
+hora: 23:26:26
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 24
+pedido: 360
+data: 11.29.19
+hora: 23:26:30
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 25
+pedido: 367
+data: 11.29.19
+hora: 23:26:37
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 15
+pedido: 363
+data: 11.29.19
+hora: 23:26:43
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+pedido: 361
+data: 11.29.19
+hora: 23:26:51
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 18
+!!!fim dia 11.29.19 !!!
+total vendas do dia: 337
+pedido: 361
+data: 11.30.19
+hora: 23:36:41
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: coca zero
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+produto: kuat
+quantidade: 4
+preco: 5
+total produto: 20
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: pao de mel
+quantidade: 2
+preco: 4.5
+total produto: 9
+-----------------
+total pedido: 509.5
+pedido: 373
+data: 11.30.19
+hora: 23:37:43
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: slice marguerita
+quantidade: 9
+preco: 8
+total produto: 72
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: chesse finger
+quantidade: 15
+preco: 15
+total produto: 225
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: fanta laranja
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 2
+preco: 8
+total produto: 16
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 369
+pedido: 383
+data: 11.30.19
+hora: 23:38:23
+produto: slice marguerita
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: coca cola
+quantidade: 9
+preco: 5
+total produto: 45
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca zero
+quantidade: 9
+preco: 5
+total produto: 45
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 330
+!!!fim dia 11.30.19 !!!
+total vendas do dia: 1208.5
+pedido: 335
+data: 12.01.19
+hora: 23:43:35
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 11
+preco: 8
+total produto: 88
+produto: slice newyork
+quantidade: 11
+preco: 8
+total produto: 88
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 11
+preco: 5
+total produto: 55
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: halls
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+produto: scheppers
+quantidade: 5
+preco: 5
+total produto: 25
+produto: tonica
+quantidade: 14
+preco: 5
+total produto: 70
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 3
+preco: 4
+total produto: 12
+produto: brigadeiro
+quantidade: 2
+preco: 2
+total produto: 4
+-----------------
+total pedido: 629.5
+pedido: 348
+data: 12.01.19
+hora: 23:44:48
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 7
+preco: 15
+total produto: 105
+produto: fanta laranja
+quantidade: 9
+preco: 5
+total produto: 45
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: trident
+quantidade: 10
+preco: 2.5
+total produto: 25
+-----------------
+total pedido: 223.5
+pedido: 352
+data: 12.01.19
+hora: 23:45:22
+produto: agua com gas
+quantidade: 4
+preco: 4
+total produto: 16
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: sprite
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 282
+!!!fim dia 12.01.19 !!!
+total vendas do dia: 1135
+pedido: 390
+data: 12.02.19
+hora: 23:49:20
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: chesse finger
+quantidade: 8
+preco: 15
+total produto: 120
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: coca zero
+quantidade: 6
+preco: 5
+total produto: 30
+produto: sprite
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+-----------------
+total pedido: 376
+pedido: 397
+data: 12.02.19
+hora: 23:49:47
+produto: slice marguerita
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua com gas
+quantidade: 2
+preco: 4
+total produto: 8
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+produto: trident
+quantidade: 3
+preco: 2.5
+total produto: 7.5
+-----------------
+total pedido: 343
+pedido: 306
+data: 12.02.19
+hora: 23:50:16
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: slice marguerita
+quantidade: 19
+preco: 8
+total produto: 152
+produto: coca cola
+quantidade: 5
+preco: 5
+total produto: 25
+produto: chesse finger
+quantidade: 9
+preco: 15
+total produto: 135
+produto: coca zero
+quantidade: 4
+preco: 5
+total produto: 20
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 4
+preco: 2
+total produto: 8
+-----------------
+total pedido: 450.5
+!!!fim dia 12.02.19 !!!
+total vendas do dia: 1169.5
+pedido: 325
+data: 12.03.19
+hora: 23:52:05
+produto: slice marguerita
+quantidade: 10
+preco: 8
+total produto: 80
+produto: slice pepponi
+quantidade: 8
+preco: 8
+total produto: 64
+produto: chesse finger
+quantidade: 4
+preco: 15
+total produto: 60
+produto: coca cola
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta laranja
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: pao de mel
+quantidade: 4
+preco: 4.5
+total produto: 18
+produto: agua com gas
+quantidade: 6
+preco: 4
+total produto: 24
+produto: halls
+quantidade: 8
+preco: 2.5
+total produto: 20
+produto: brigadeiro
+quantidade: 3
+preco: 2
+total produto: 6
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: tonica
+quantidade: 3
+preco: 5
+total produto: 15
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 346.5
+pedido: 326
+data: 12.03.19
+hora: 23:52:56
+produto: slice marguerita
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice pepponi
+quantidade: 5
+preco: 8
+total produto: 40
+produto: slice newyork
+quantidade: 6
+preco: 8
+total produto: 48
+produto: chesse finger
+quantidade: 11
+preco: 15
+total produto: 165
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta uva
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 353
+pedido: 330
+data: 12.03.19
+hora: 23:53:20
+produto: slice marguerita
+quantidade: 7
+preco: 8
+total produto: 56
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: coca cola
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta laranja
+quantidade: 4
+preco: 5
+total produto: 20
+produto: fanta uva
+quantidade: 3
+preco: 5
+total produto: 15
+produto: sprite
+quantidade: 2
+preco: 5
+total produto: 10
+produto: coca zero
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice newyork
+quantidade: 10
+preco: 8
+total produto: 80
+-----------------
+total pedido: 357
+!!!fim dia 12.03.19 !!!
+total vendas do dia: 1056.5
+pedido: 347
+data: 12.04.19
+hora: 23:54:47
+produto: slice marguerita
+quantidade: 16
+preco: 8
+total produto: 128
+produto: slice pepponi
+quantidade: 17
+preco: 8
+total produto: 136
+produto: slice newyork
+quantidade: 16
+preco: 8
+total produto: 128
+-----------------
+total pedido: 392
+pedido: 353
+data: 12.04.19
+hora: 23:55:13
+produto: chesse finger
+quantidade: 10
+preco: 15
+total produto: 150
+produto: coca cola
+quantidade: 37
+preco: 5
+total produto: 185
+produto: coca zero
+quantidade: 12
+preco: 5
+total produto: 60
+produto: fanta laranja
+quantidade: 6
+preco: 5
+total produto: 30
+-----------------
+total pedido: 425
+pedido: 350
+data: 12.04.19
+hora: 23:55:40
+produto: chesse finger
+quantidade: 2
+preco: 15
+total produto: 30
+produto: fanta laranja
+quantidade: 5
+preco: 5
+total produto: 25
+produto: fanta uva
+quantidade: 7
+preco: 5
+total produto: 35
+produto: sprite
+quantidade: 6
+preco: 5
+total produto: 30
+produto: pao de mel
+quantidade: 9
+preco: 4.5
+total produto: 40.5
+produto: brigadeiro
+quantidade: 11
+preco: 2
+total produto: 22
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: trident
+quantidade: 18
+preco: 2.5
+total produto: 45
+produto: slice marguerita
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 2
+preco: 8
+total produto: 16
+-----------------
+total pedido: 343.5
+!!!fim dia 12.04.19 !!!
+total vendas do dia: 1160.5
+pedido: 375
+data: 12.05.19
+hora: 23:57:55
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 22
+preco: 8
+total produto: 176
+produto: slice newyork
+quantidade: 20
+preco: 8
+total produto: 160
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: pao de mel
+quantidade: 5
+preco: 4.5
+total produto: 22.5
+-----------------
+total pedido: 489.5
+pedido: 382
+data: 12.05.19
+hora: 23:58:22
+produto: agua com gas
+quantidade: 14
+preco: 4
+total produto: 56
+produto: halls
+quantidade: 2
+preco: 2.5
+total produto: 5
+produto: agua sem gas
+quantidade: 28
+preco: 3.5
+total produto: 98
+produto: chesse finger
+quantidade: 5
+preco: 15
+total produto: 75
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+produto: slice pepponi
+quantidade: 3
+preco: 8
+total produto: 24
+produto: slice newyork
+quantidade: 5
+preco: 8
+total produto: 40
+produto: pao de mel
+quantidade: 3
+preco: 4.5
+total produto: 13.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 328.5
+pedido: 396
+data: 12.05.19
+hora: 23:59:06
+produto: agua com gas
+quantidade: 5
+preco: 4
+total produto: 20
+produto: pao de mel
+quantidade: 12
+preco: 4.5
+total produto: 54
+produto: brigadeiro
+quantidade: 21
+preco: 2
+total produto: 42
+produto: slice pepponi
+quantidade: 7
+preco: 8
+total produto: 56
+produto: slice newyork
+quantidade: 4
+preco: 8
+total produto: 32
+produto: coca cola
+quantidade: 17
+preco: 5
+total produto: 85
+produto: coca zero
+quantidade: 15
+preco: 5
+total produto: 75
+produto: sprite
+quantidade: 43
+preco: 5
+total produto: 215
+produto: fanta uva
+quantidade: 22
+preco: 5
+total produto: 110
+-----------------
+total pedido: 689
+!!!fim dia 12.05.19 !!!
+total vendas do dia: 1507
+pedido: 029
+data: 12.06.19
+hora: 00:52:49
+produto: slice marguerita
+quantidade: 19
+preco: 8
+total produto: 152
+produto: slice pepponi
+quantidade: 17
+preco: 8
+total produto: 136
+produto: slice newyork
+quantidade: 13
+preco: 8
+total produto: 104
+produto: chesse finger
+quantidade: 10
+preco: 15
+total produto: 150
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+-----------------
+total pedido: 552
+pedido: 032
+data: 12.06.19
+hora: 00:53:12
+produto: slice marguerita
+quantidade: 3
+preco: 8
+total produto: 24
+produto: slice pepponi
+quantidade: 10
+preco: 8
+total produto: 80
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 16
+preco: 5
+total produto: 80
+produto: slice newyork
+quantidade: 8
+preco: 8
+total produto: 64
+produto: coca zero
+quantidade: 2
+preco: 5
+total produto: 10
+produto: fanta laranja
+quantidade: 7
+preco: 5
+total produto: 35
+produto: fanta uva
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 333
+pedido: 037
+data: 12.06.19
+hora: 00:53:37
+produto: coca zero
+quantidade: 4
+preco: 5
+total produto: 20
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+produto: chesse finger
+quantidade: 9
+preco: 15
+total produto: 135
+produto: slice marguerita
+quantidade: 12
+preco: 8
+total produto: 96
+produto: slice pepponi
+quantidade: 6
+preco: 8
+total produto: 48
+produto: slice newyork
+quantidade: 13
+preco: 8
+total produto: 104
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 418
+!!!fim dia 12.06.19 !!!
+total vendas do dia: 1303
+pedido: 151
+data: 12.07.19
+hora: 01:35:31
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 13
+pedido: 153
+data: 12.07.19
+hora: 01:35:43
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 13
+pedido: 151
+data: 12.07.19
+hora: 01:35:51
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+-----------------
+total pedido: 7
+pedido: 164
+data: 12.07.19
+hora: 01:36:04
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+-----------------
+total pedido: 15
+pedido: 168
+data: 12.07.19
+hora: 01:36:08
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 2
+preco: 5
+total produto: 10
+-----------------
+total pedido: 26
+pedido: 161
+data: 12.07.19
+hora: 01:36:21
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 30
+pedido: 166
+data: 12.07.19
+hora: 01:36:36
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 5
+pedido: 163
+data: 12.07.19
+hora: 01:36:43
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+-----------------
+total pedido: 13
+pedido: 161
+data: 12.07.19
+hora: 01:36:51
+produto: tonica
+quantidade: 1
+preco: 5
+total produto: 5
+produto: slice marguerita
+quantidade: 2
+preco: 8
+total produto: 16
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+-----------------
+total pedido: 32.5
+pedido: 178
+data: 12.07.19
+hora: 01:37:08
+produto: agua sem gas
+quantidade: 2
+preco: 3.5
+total produto: 7
+-----------------
+total pedido: 7
+pedido: 172
+data: 12.07.19
+hora: 01:37:12
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+-----------------
+total pedido: 11.5
+pedido: 177
+data: 12.07.19
+hora: 01:37:17
+produto: agua sem gas
+quantidade: 3
+preco: 3.5
+total produto: 10.5
+-----------------
+total pedido: 10.5
+pedido: 173
+data: 12.07.19
+hora: 01:37:23
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+-----------------
+total pedido: 11
+pedido: 179
+data: 12.07.19
+hora: 01:37:29
+produto: brigadeiro
+quantidade: 4
+preco: 2
+total produto: 8
+-----------------
+total pedido: 8
+pedido: 179
+data: 12.07.19
+hora: 01:37:39
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 18.5
+pedido: 177
+data: 12.07.19
+hora: 01:37:47
+produto: slice marguerita
+quantidade: 3
+preco: 8
+total produto: 24
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+-----------------
+total pedido: 39
+pedido: 865
+data: 12.07.19
+hora: 08:26:25
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: coca cola
+quantidade: 3
+preco: 5
+total produto: 15
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+-----------------
+total pedido: 54
+pedido: 881
+data: 12.07.19
+hora: 08:28:21
+produto: slice marguerita
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice pepponi
+quantidade: 1
+preco: 8
+total produto: 8
+produto: slice newyork
+quantidade: 1
+preco: 8
+total produto: 8
+produto: chesse finger
+quantidade: 1
+preco: 15
+total produto: 15
+produto: coca cola
+quantidade: 1
+preco: 5
+total produto: 5
+produto: coca zero
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta laranja
+quantidade: 1
+preco: 5
+total produto: 5
+produto: fanta uva
+quantidade: 1
+preco: 5
+total produto: 5
+produto: sprite
+quantidade: 1
+preco: 5
+total produto: 5
+produto: scheppers
+quantidade: 1
+preco: 5
+total produto: 5
+produto: kuat
+quantidade: 1
+preco: 5
+total produto: 5
+produto: agua sem gas
+quantidade: 1
+preco: 3.5
+total produto: 3.5
+produto: agua com gas
+quantidade: 1
+preco: 4
+total produto: 4
+produto: halls
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: trident
+quantidade: 1
+preco: 2.5
+total produto: 2.5
+produto: pao de mel
+quantidade: 1
+preco: 4.5
+total produto: 4.5
+produto: brigadeiro
+quantidade: 1
+preco: 2
+total produto: 2
+-----------------
+total pedido: 93
+pedido: 911
+data: 12.07.19
+hora: 09:51:51
+produto: kitkat
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 5
+pedido: 924
+data: 12.07.19
+hora: 09:52:44
+produto: kitkat
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 5
+pedido: 983
+data: 12.07.19
+hora: 09:58:03
+produto: kitkat
+quantidade: 1
+preco: 5
+total produto: 5
+-----------------
+total pedido: 5
+pedido: 020
+data: 12.07.19
+hora: 10:02:20
+produto: kitkat
+quantidade: 2
+preco: 5
+total produto: 10
+-----------------
+total pedido: 10
+pedido: 058
+data: 12.07.19
+hora: 10:05:38
+produto: kitkat
+quantidade: 8
+preco: 5
+total produto: 40
+-----------------
+total pedido: 40
+pedido: 066
+data: 12.07.19
+hora: 10:06:06
+produto: kitkat
+quantidade: 5
+preco: 5
+total produto: 25
+-----------------
+total pedido: 25
+!!!fim dia 12.07.19 !!!
+total vendas do dia: 497

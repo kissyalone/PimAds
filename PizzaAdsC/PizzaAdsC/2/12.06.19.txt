@@ -1,0 +1,13 @@
+=============Registro de Caixa=============
+ Horas    | Atidade Realizada   | Valor
+ 00:52:40 | ABERTURA DE CAIXA   | 142.50
+ 00:52:49 | PEDIDO 029          |$552
+ 00:53:12 | PEDIDO 032          |$333
+ 00:53:37 | PEDIDO 037          |$418
+ 00:54:11 | !!!!!FECHAMENTO!!!! | 0
+TOTAL VENDIDO.................... 1303
+TOTAL DE PEDIDOS................. 3
+TOTAL DE CAIXA................... 1445.5
+VALOR DIGITADO PELO USUARIO...... 1500
+DIFERENCA DE CAIXA DE............ 54.5
+=============Fim de Registro==============

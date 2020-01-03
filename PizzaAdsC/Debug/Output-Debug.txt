@@ -1,0 +1,18 @@
+﻿'PizzaAdsC.exe' (Win32): Loaded 'C:\PizzaAdsC\Release\PizzaAdsC.exe'. Symbols loaded.
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140.dll'. 
+The thread 0x44b4 has exited with code 0 (0x0).
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'PizzaAdsC.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+The thread 0x4144 has exited with code -1073741510 (0xc000013a).
+The thread 0x38f4 has exited with code -1073741510 (0xc000013a).
+The thread 0x2708 has exited with code -1073741510 (0xc000013a).
+The thread 0x3654 has exited with code -1073741510 (0xc000013a).
+The program '[13920] PizzaAdsC.exe' has exited with code -1073741510 (0xc000013a).

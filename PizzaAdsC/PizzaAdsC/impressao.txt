@@ -1,0 +1,21 @@
+            ~~~~~~~~ New York Pizza ~~~~~~~~
+
+                       Pedido: 123
+           Data: 12.07.19    Hora: 11:02:13
+
+                  produto: coca cola
+                  quantidade: 1
+                  preco: 5
+                  total produto: 5
+
+                  produto: slice marguerita
+                  quantidade: 1
+                  preco: 8
+                  total produto: 8
+
+                  produto: slice pepponi
+                  quantidade: 1
+                  preco: 8
+                  total produto: 8
+
+                       TOTAL: 21

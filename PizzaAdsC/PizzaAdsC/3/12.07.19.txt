@@ -1,0 +1,16 @@
+=============Registro de Caixa=============
+ Horas    | Atidade Realizada   | Valor
+ 01:15:22 | ABERTURA DE CAIXA   | 145.25
+ 01:15:28 | PEDIDO 158          |$73.5
+ 01:15:50 | PEDIDO 150          |$329
+ 01:16:45 | PEDIDO 165          |$212
+ 01:19:55 | PEDIDO 195          |$589
+ 01:20:23 | PEDIDO 103          |$282
+ 01:21:25 | PEDIDO 115          |$40
+ 01:21:34 | PEDIDO 114          |$16
+ 01:29:58 | PEDIDO 198          |$106.5
+ 09:27:19 | PEDIDO 979          |$13
+ 09:27:27 | PEDIDO 977          |$13
+ 09:44:15 | PEDIDO 945          |$34
+ 09:48:08 | SANGRIA DE CAIXA    | -50
+

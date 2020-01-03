@@ -1,0 +1,6 @@
+=============Registro de Caixa=============
+ Horas    | Atidade Realizada   | Valor
+ 10:41:54 | ABERTURA DE CAIXA   | 132.35
+ 10:42:06 | PEDIDO 026          |$15
+ 10:46:32 | PEDIDO 062          |$24
+ 11:02:13 | PEDIDO 123          |$21

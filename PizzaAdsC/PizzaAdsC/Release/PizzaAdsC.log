@@ -1,0 +1,59 @@
+﻿  PizzaAdsC.cpp
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(352,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(496,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(644,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(646,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(647,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(648,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(731,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(858,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1108,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1173,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1336,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1401,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1563,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1636,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1703,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1774,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(1913,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2008,34): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2133,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2198,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2426,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2499,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2597,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2627,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2684,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2787,33): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2840,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(2913,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3024,38): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3152,33): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3295,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3388,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3473,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3497,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3543,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3615,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3715,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3782,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3857,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3899,32): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(3984,37): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4130,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4142,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4144,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4172,37): warning C4551: function call missing argument list
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4233,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4246,12): warning C4129: 'o': unrecognized character escape sequence
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4247,12): warning C4129: ' ': unrecognized character escape sequence
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4248,12): warning C4129: ' ': unrecognized character escape sequence
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4249,12): warning C4129: '|': unrecognized character escape sequence
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4423,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\PizzaAdsC\PizzaAdsC\PizzaAdsC.cpp(4423,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating code
+  2 of 278 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PizzaAdsC.vcxproj -> C:\PizzaAdsC\Release\PizzaAdsC.exe

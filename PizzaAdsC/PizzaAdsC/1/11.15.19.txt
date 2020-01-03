@@ -1,0 +1,24 @@
+=============Registro de Caixa=============
+ Horas    | Atidade Realizada   | Valor
+ 23:23:37 | ABERTURA DE CAIXA   | 137.75
+ 23:24:06 | REFORCO DE CAIXA    | 43.15
+ 23:24:18 | SANGRIA DE CAIXA    | -33.35
+ 23:24:32 | PEDIDO 342          |$93
+ 23:25:25 | PEDIDO 355          |$42
+ 23:25:51 | PEDIDO 351          |$38
+ 23:26:02 | PEDIDO 362          |$18
+ 23:26:13 | PEDIDO 363          |$18
+ 23:26:18 | PEDIDO 368          |$28
+ 23:26:26 | PEDIDO 366          |$24
+ 23:26:30 | PEDIDO 360          |$25
+ 23:26:37 | PEDIDO 367          |$15
+ 23:26:43 | PEDIDO 363          |$18
+ 23:26:51 | PEDIDO 361          |$18
+ 23:27:17 | SANGRIA DE CAIXA    | -13.85
+ 23:27:37 | !!!!!FECHAMENTO!!!! | 0
+TOTAL VENDIDO.................... 337
+TOTAL DE PEDIDOS................. 11
+TOTAL DE CAIXA................... 470.7
+VALOR DIGITADO PELO USUARIO...... 1000
+DIFERENCA DE CAIXA DE............ 529.3
+=============Fim de Registro==============
