@@ -4,8 +4,8 @@
  ![](img/menuInicial.png)
 
 # **Usage Example**
- for any store that needed a simple system of cashflow, inventory control system and non-tax impression.
- see below all the functions of the system:
+ for any store that needed a simple system of cashflow, inventory control system and non-tax impression.  
+ See below all the functions of the system:
 ## Functionalities
     [x] Login screen
     [x] All options of cash accounting
@@ -19,20 +19,20 @@
 
 # **Installation**
  Windows Only:
-    Download [VisualStudio](https://visualstudio.microsoft.com/downloads/)
-    [Fork this repository](https://github.com/kissyalone/PimAds)
-    modify _"loginBDS.txt"_ 
-        > to you own users and passwords.
-    Clean all the files from folders 1,2,3 **Except _produtoBDS.txt_ and _registroVendas.txt_**
-    Open _produtoBDS.txt_ and _registroVendas.txt_ and erase everthing inside and save blank.
+    Download [VisualStudio](https://visualstudio.microsoft.com/downloads/)  
+    [Fork this repository](https://github.com/kissyalone/PimAds)  
+    modify _"loginBDS.txt"_  
+        > to you own users and passwords.  
+    Clean all the files from folders 1,2,3 **Except _produtoBDS.txt_ and _registroVendas.txt_**  
+    Open _produtoBDS.txt_ and _registroVendas.txt_ and erase everthing inside and save blank.  
 
 # **About Me**
- My name is Jhonata de Souza, iam from Sorocaba-SP, Brazil.
+ My name is Jhonata de Souza, iam from Sorocaba-SP, Brazil.  
  student of ADS on Unip.
 
- If you need any help contact me:
- [github](https://github.com/kissyalone)
- [Linkedin](notfound.com)
+ If you need any help contact me:  
+ [github](https://github.com/kissyalone/PimAds)  
+ [Linkedin](notfound.com)  
  
  > This is a project for my University.
  
