@@ -32,7 +32,7 @@
 
  If you need any help contact me:  
  [github](https://github.com/kissyalone/PimAds)  
- [Linkedin](notfound.com)  
+ [Linkedin](https://www.linkedin.com/in/jhousouza2/)  
  
  > This is a project for my University.
  
